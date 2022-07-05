@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="cupRounded">
+        <item name="cornerSizeBottomLeft">43%</item>
+        <item name="cornerFamilyBottomLeft">rounded</item>
+        <item name="cornerSizeBottomRight">42%</item>
+        <item name="cornerFamilyBottomRight">rounded</item>
+    </style>
+</resources>
